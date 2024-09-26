@@ -1,5 +1,5 @@
 import styles from "./HeroStyles.module.css";
-import heroImg from "../../assets/hero-yash.png";
+import heroImg from "../../assets/WhatsApp Image 2024-09-25 at 6.03.jpg";
 import sun from "../../assets/sun.svg";
 import moon from "../../assets/moon.svg";
 import twitterLight from "../../assets/twitter-light.svg";
@@ -8,7 +8,7 @@ import linkedinLight from "../../assets/linkedin-light.svg";
 import linkedinDark from "../../assets/linkedin-dark.svg";
 import githubLight from "../../assets/github-light.svg";
 import githubDark from "../../assets/github-dark.svg";
-import CV from "../../assets/Yashwanth Pasupuleti.pdf";
+import CV from "../../assets/vishu-resume (1).pdf";
 import { useTheme } from "../../common/ThemeContext";
 import Typed from "typed.js";
 import React, { useEffect, useRef } from "react";
