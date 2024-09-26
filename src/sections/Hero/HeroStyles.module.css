@@ -9,9 +9,9 @@
 
   .hero {
   width:100px;
+    
   border-radius: 100%;
   }
-
   span {
     display: flex;
     gap: 25px;
